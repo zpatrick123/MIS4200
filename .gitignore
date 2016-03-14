@@ -1,0 +1,6 @@
+echo "# MIS4200" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zpatrick123/MIS4200.git
+git push -u origin master
